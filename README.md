@@ -1,4 +1,8 @@
-# 1. Browser extensions
+# 0. My Blog Example
+
+![my-blog-screenshot](my-blog.png)
+
+# 1. Tools
 
 ## a) WhatFont ?
 

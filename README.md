@@ -5,7 +5,7 @@
 # 1. Tools
 
 <span style="color:red">IMPORTANT NOTICE:</span>
-Lot of times these tools doesn't allow you to use them on *local files* by default. Please allow access in the options:
+Lot of times these tools doesn't allow you to use them on *local files* (starting with `file:///` instead of `http://`) by default. Please allow access in the options:
 
 ![allow-access](allow_access.gif)
 

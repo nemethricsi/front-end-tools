@@ -2,6 +2,18 @@
 
 ![my-blog-screenshot](my-blog.png)
 
+## 0 / b I really forget one thing
+
+When you click the button goes 'down' 3 pixels:
+
+```css
+button:active {
+            transform: translateY(3px);
+        }
+```
+
+![my-blog-screenshot](button_clicked_animation.gif)
+
 # 1. Tools
 
 <span style="color:red">IMPORTANT NOTICE:</span>

@@ -112,6 +112,8 @@ _an open source technology stack for building diagramming applications, and the 
 
 [0 to 255](https://www.0to255.com/) - _color shades_
 
+[Flat UI colors](https://flatuicolors.com/) - _Flat colors_
+
 # 5. Others
 
 [JS keycodes](http://keycodes.atjayjo.com/#charcode)
